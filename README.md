@@ -3,7 +3,7 @@
 A list of awesome names for Go projects.
 
 If you know some cool project to list here just create a PR!  
-For foreign definition provide specify the original language and the english definition of the word.  
+For foreign definition specify the original language and provide the english definition of the word.  
 PS: every name should be an existing thing containing the `go` keyword!
 
 ## Animals
